@@ -2,6 +2,6 @@
 ## Trabalhando com Machine Learning na Prática no Azure ML
 
 ## Objetivo
-Criar um modelo teste para aluguel de bicicletas utilizando a ferramenta AzureML da microsoft
+Utilizar a ferramenta Azure Machine Learning Microsoft para criar, treinar e testar um modelo de aprendizado para o aluguel de bicicletas utilizando os dados disponíveis para teste.
 
 
